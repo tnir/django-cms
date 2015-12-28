@@ -234,11 +234,11 @@ def get_app_patterns():
             continue
         if not settings.APPEND_SLASH:
             path += '/'
-        if title.page_id not in hooked_applications:
-            hooked_applications[title.page_id] = {}
         app = apphook_pool.get_apphook(title.page.application_urls)
         if not app:
-            return patterns('')
+            continue
+        if title.page_id not in hooked_applications:
+            hooked_applications[title.page_id] = {}
         app_ns = app.app_name, title.page.application_namespace
         with force_language(title.language):
             hooked_applications[title.page_id][title.language] = (
