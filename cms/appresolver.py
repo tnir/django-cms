@@ -13,6 +13,7 @@ except ImportError:
     from django.utils.importlib import import_module
 
 from django.conf import settings
+from django.conf.urls import patterns
 from django.contrib.sites.models import Site
 from django.core.exceptions import ImproperlyConfigured
 from django.core.urlresolvers import (RegexURLResolver, Resolver404, reverse,
@@ -23,7 +24,6 @@ from django.utils.translation import get_language
 from cms.apphook_pool import apphook_pool
 from cms.models.pagemodel import Page
 from cms.utils.i18n import force_language, get_language_list
-
 
 APP_RESOLVERS = []
 
@@ -237,6 +237,8 @@ def get_app_patterns():
         if title.page_id not in hooked_applications:
             hooked_applications[title.page_id] = {}
         app = apphook_pool.get_apphook(title.page.application_urls)
+        if not app:
+            return patterns('')
         app_ns = app.app_name, title.page.application_namespace
         with force_language(title.language):
             hooked_applications[title.page_id][title.language] = (
