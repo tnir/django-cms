@@ -3,7 +3,7 @@ python-coveralls==2.9.1
 unittest-xml-reporting==2.1.0
 Pillow==5.0.0
 html5lib>0.99999
-django-treebeard==4.0
+django-treebeard==4.2.0
 argparse
 dj-database-url
 selenium
