@@ -2,6 +2,6 @@
 Django==2.0.1
 djangocms-text-ckeditor>=2.8.1
 django-reversion==2.0.13
-django-hvad==1.4
+django-hvad==1.8.0
 django-formtools
 django-debug-toolbar
