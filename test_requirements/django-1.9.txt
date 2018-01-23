@@ -1,7 +1,7 @@
 -r requirements_base.txt
-Django>=1.9,<1.10
+Django==2.0.1
 djangocms-text-ckeditor>=2.8.1
-django-reversion==1.10,<1.11
-django-hvad==1.4
-django-formtools
-django-debug-toolbar
+django-reversion==2.0.13
+django-hvad==1.8.0
+django-formtools==2.1
+django-debug-toolbar==1.9.1
