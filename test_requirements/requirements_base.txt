@@ -6,7 +6,7 @@ html5lib>0.99999
 django-treebeard==4.2.0
 argparse==1.4.0
 dj-database-url==0.4.2
-selenium
+selenium==3.8.1
 djangocms-admin-style>=1.0
 django-sekizai>=0.9
 django-classy-tags>=0.7.2
