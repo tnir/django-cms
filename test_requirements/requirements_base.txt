@@ -5,7 +5,7 @@ Pillow==5.0.0
 html5lib>0.99999
 django-treebeard==4.2.0
 argparse==1.4.0
-dj-database-url
+dj-database-url==0.4.2
 selenium
 djangocms-admin-style>=1.0
 django-sekizai>=0.9
