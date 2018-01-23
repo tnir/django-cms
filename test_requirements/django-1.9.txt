@@ -4,4 +4,4 @@ djangocms-text-ckeditor>=2.8.1
 django-reversion==2.0.13
 django-hvad==1.8.0
 django-formtools==2.1
-django-debug-toolbar
+django-debug-toolbar==1.9.1
