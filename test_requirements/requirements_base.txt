@@ -4,7 +4,7 @@ unittest-xml-reporting==2.1.0
 Pillow==5.0.0
 html5lib>0.99999
 django-treebeard==4.2.0
-argparse
+argparse==1.4.0
 dj-database-url
 selenium
 djangocms-admin-style>=1.0
