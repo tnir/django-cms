@@ -4,5 +4,5 @@ Pygments==2.0.2
 sphinx
 sphinxcontrib-spelling
 pyenchant
-sphinx-autobuild
+sphinx-autobuild==0.7.1
 sphinx_rtd_theme
