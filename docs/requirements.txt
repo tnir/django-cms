@@ -5,5 +5,5 @@ sphinx
 # temporarily disabled because of an issue on RTD. see also conf.py
 #sphinxcontrib-spelling
 pyenchant
-sphinx-autobuild
+sphinx-autobuild==0.7.1
 divio-docs-theme
