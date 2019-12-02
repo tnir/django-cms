@@ -6,4 +6,4 @@ sphinx
 #sphinxcontrib-spelling
 pyenchant
 sphinx-autobuild
-divio-docs-theme
+divio-docs-theme==0.0.20
