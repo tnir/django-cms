@@ -1,7 +1,7 @@
 -f http://simple.crate.io/
 MarkupSafe==0.23
 Pygments==2.0.2
-sphinx
+sphinx==3.2.1
 # temporarily disabled because of an issue on RTD. see also conf.py
 #sphinxcontrib-spelling
 pyenchant
