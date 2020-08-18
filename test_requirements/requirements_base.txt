@@ -1,6 +1,6 @@
 coverage==4.2
 python-coveralls==2.5.0
-unittest-xml-reporting==1.11.0
+unittest-xml-reporting==3.0.4
 Pillow==3.3
 django-treebeard>=4.1
 argparse
