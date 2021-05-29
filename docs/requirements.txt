@@ -7,4 +7,4 @@ sphinx-autobuild
 divio-docs-theme
 datetime
 coverage
-django-cms
+django-cms==3.8.0
