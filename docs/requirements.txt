@@ -118,7 +118,7 @@ sphinxcontrib-spelling==7.2.1
     # via -r requirements.in
 sphinxext-opengraph==0.4.2
     # via -r requirements.in
-sqlparse==0.4.1
+sqlparse==0.4.2
     # via django
 toml==0.10.2
     # via pep517
