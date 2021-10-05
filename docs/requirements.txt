@@ -67,7 +67,7 @@ pep517==0.10.0
     # via pip-tools
 pip-tools==6.2.0
     # via -r requirements.in
-pyenchant==3.2.1
+pyenchant==3.2.2
     # via
     #   -r requirements.in
     #   sphinxcontrib-spelling
