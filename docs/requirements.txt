@@ -75,7 +75,7 @@ pygments==2.0.2
     # via
     #   -r requirements.in
     #   sphinx
-pyparsing==2.4.7
+pyparsing==3.0.0
     # via packaging
 pytz==2021.1
     # via
