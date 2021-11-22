@@ -15,4 +15,4 @@ iptools
 # required to run the server for integration tests
 django-app-helper
 mock>=2.0.0
-flake8
+flake8==4.0.1
