@@ -45,7 +45,7 @@ django-treebeard==4.5.1
     # via django-cms
 djangocms-admin-style==2.0.2
     # via django-cms
-docutils==0.17.1
+docutils==0.18.1
     # via sphinx
 furo==2021.6.24b37
     # via -r requirements.in
