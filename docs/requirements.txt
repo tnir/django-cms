@@ -39,7 +39,7 @@ django-cms==3.9.0
     # via -r requirements.in
 django-formtools==2.3
     # via django-cms
-django-sekizai==2.0.0
+django-sekizai==3.0.1
     # via django-cms
 django-treebeard==4.5.1
     # via django-cms
