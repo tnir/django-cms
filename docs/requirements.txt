@@ -47,7 +47,7 @@ djangocms-admin-style==2.0.2
     # via django-cms
 docutils==0.17.1
     # via sphinx
-furo==2021.6.24b37
+furo==2022.2.14.1
     # via -r requirements.in
 idna==2.10
     # via requests
