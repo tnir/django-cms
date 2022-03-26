@@ -35,7 +35,7 @@ django-classy-tags==2.0.0
     # via
     #   django-cms
     #   django-sekizai
-django-cms==3.9.0
+django-cms==3.10.0
     # via -r requirements.in
 django-formtools==2.3
     # via django-cms
