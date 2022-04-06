@@ -65,7 +65,7 @@ packaging==20.9
     # via sphinx
 pep517==0.10.0
     # via pip-tools
-pip-tools==6.2.0
+pip-tools==6.6.0
     # via -r requirements.in
 pyenchant==3.2.1
     # via
