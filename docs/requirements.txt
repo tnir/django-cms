@@ -78,7 +78,7 @@ pygments==2.11.2
     #   -r requirements.in
     #   furo
     #   sphinx
-pyparsing==3.0.7
+pyparsing==3.0.9
     # via packaging
 pytz==2021.3
     # via
