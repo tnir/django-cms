@@ -118,7 +118,7 @@ sphinxcontrib-qthelp==1.0.3
     # via sphinx
 sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
-sphinxcontrib-spelling==7.3.2
+sphinxcontrib-spelling==7.5.0
     # via -r requirements.in
 sphinxext-opengraph==0.6.1
     # via -r requirements.in
