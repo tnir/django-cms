@@ -20,7 +20,7 @@ click==8.0.4
     # via pip-tools
 codespell==2.1.0
     # via -r requirements.in
-colorama==0.4.4
+colorama==0.4.5
     # via sphinx-autobuild
 coverage==6.3.2
     # via -r requirements.in
