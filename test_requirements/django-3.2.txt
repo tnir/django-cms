@@ -2,6 +2,6 @@
 Django==3.2
 djangocms-admin-style>=3.0
 django-classy-tags>=3.0
-django-formtools==2.2
+django-formtools==2.4
 django-sekizai>=3.0
 pyenchant==3.0.1
