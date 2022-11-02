@@ -120,7 +120,7 @@ sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
 sphinxcontrib-spelling==7.3.2
     # via -r requirements.in
-sphinxext-opengraph==0.6.1
+sphinxext-opengraph==0.7.2
     # via -r requirements.in
 sqlparse==0.4.2
     # via django
