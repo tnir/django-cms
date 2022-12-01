@@ -34,7 +34,7 @@ django==3.2.15
     #   django-formtools
     #   django-sekizai
     #   django-treebeard
-django-classy-tags==3.0.1
+django-classy-tags==4.0.0
     # via
     #   django-cms
     #   django-sekizai
