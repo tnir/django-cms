@@ -64,7 +64,7 @@ markupsafe==2.1.0
     # via
     #   -r requirements.in
     #   jinja2
-packaging==21.3
+packaging==22.0
     # via sphinx
 pep517==0.12.0
     # via pip-tools
