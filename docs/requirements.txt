@@ -81,7 +81,7 @@ pygments==2.11.2
     #   sphinx
 pyparsing==3.0.7
     # via packaging
-pytz==2021.3
+pytz==2023.2
     # via
     #   babel
     #   datetime
