@@ -86,7 +86,7 @@ pytz==2021.3
     #   babel
     #   datetime
     #   django
-requests==2.27.1
+requests==2.30.0
     # via sphinx
 six==1.16.0
     # via livereload
