@@ -113,7 +113,7 @@ sphinx-basic-ng==0.0.1a12
     # via furo
 sphinx-copybutton==0.5.0
     # via -r requirements.in
-sphinxcontrib-applehelp==1.0.2
+sphinxcontrib-applehelp==1.0.4
     # via sphinx
 sphinxcontrib-devhelp==1.0.2
     # via sphinx
